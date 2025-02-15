@@ -28,7 +28,7 @@
     "tape": "^4.2.2"
   },
   "dependencies": {
-    "bitcoinjs-lib": "^1.5.7",
+    "bitcoinjs-lib": "^6.1.7",
     "bs58check": "^1.0.6"
   }
 }
