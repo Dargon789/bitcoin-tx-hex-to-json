@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/blockai/bitcoin-tx-hex-to-json#readme",
   "devDependencies": {
-    "tape": "^4.2.2"
+    "tape": "^5.9.0"
   },
   "dependencies": {
     "bitcoinjs-lib": "^1.5.7",
